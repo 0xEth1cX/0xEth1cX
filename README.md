@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif](https://github.com/user-attachments/assets/6d0ea7a4-e4b6-41b5-9470-6ccb8adddaa4)"  />
-</div>
+<img src="https://github.com/user-attachments/assets/9c65fe4c-e059-4228-95d6-efafc312d013" width="400px">
+
 
 ###
 
